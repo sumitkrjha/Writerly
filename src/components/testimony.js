@@ -46,7 +46,7 @@ function Testimony() {
           >
             <CarouselContent>
               {/* Slide 1 */}
-              <CarouselItem className="p-1 basis-1/3">
+              <CarouselItem className="p-1 lg:lg:basis-1/3">
                 <div className="rounded-lg border bg-white text-foreground shadow-md size-full ">
                   <div className="flex flex-col gap-5 p-7 items-start ">
                     <div className="flex items-center gap-4">
@@ -76,7 +76,7 @@ function Testimony() {
               </CarouselItem>
 
               {/* Slide 2 */}
-              <CarouselItem className="p-1 basis-1/3">
+              <CarouselItem className="p-1 lg:basis-1/3">
                 <div className="rounded-lg border bg-white text-foreground shadow-md size-full ">
                   <div className="flex flex-col gap-5 p-7 items-start ">
                     <div className="flex items-center gap-4">
@@ -105,7 +105,7 @@ function Testimony() {
               </CarouselItem>
 
               {/* Slide 3 */}
-              <CarouselItem className="p-1 basis-1/3">
+              <CarouselItem className="p-1 lg:basis-1/3">
                 <div className="rounded-lg border bg-white text-foreground shadow-md size-full ">
                   <div className="flex flex-col gap-5 p-7 items-start ">
                     <div className="flex items-center gap-4">
@@ -133,7 +133,7 @@ function Testimony() {
                   </div>
                 </div>
               </CarouselItem>
-              <CarouselItem className="p-1 basis-1/3">
+              <CarouselItem className="p-1 lg:basis-1/3">
                 <div
                   class="rounded-lg border bg-white text-foreground shadow-md size-full "
                   data-block-id="MX8dkME8P3X"
@@ -181,7 +181,7 @@ function Testimony() {
                   </div>
                 </div>
               </CarouselItem>
-              <CarouselItem className="p-1 basis-1/3">
+              <CarouselItem className="p-1 lg:basis-1/3">
                 <div
                   class="rounded-lg border bg-white text-foreground shadow-md size-full "
                   data-block-id="MX8dkME8P3X"
